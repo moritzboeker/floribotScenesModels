@@ -1,0 +1,10 @@
+/*
+!/scenes
+/scenes/*
+!/scenes/floribot_scenes
+!/models
+/models/*
+!/models/floribot_models
+!.gitignore
+!README.txt
+!LICENSE.txt
